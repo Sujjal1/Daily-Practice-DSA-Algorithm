@@ -1,0 +1,45 @@
+.exe# ===== Executables =====
+*.exe
+*.out
+*.app
+*.bin
+
+# ===== No-extension executables (Linux/Mac) =====
+*
+!*.*
+!.gitignore
+!*/          
+
+# ===== Object & build files =====
+*.o
+*.obj
+*.lo
+*.a
+*.so
+*.dll
+
+# ===== Build directories =====
+build/
+dist/
+out/
+cmake-build-*/
+
+# ===== IDE / OS junk =====
+.vscode/
+.idea/
+*.swp
+*.tmp
+.DS_Store
+Thumbs.db
+
+# ===== Node / modules =====
+node_modules/
+
+# ===== Python =====
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# ===== Logs =====
+*.log
