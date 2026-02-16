@@ -1,4 +1,4 @@
-//fidning two numbers whoae sum is target from the array
+//fidning two numbers whose sum is target from the array
 #include <iostream>
 #include <vector>
 #include <unordered_map>

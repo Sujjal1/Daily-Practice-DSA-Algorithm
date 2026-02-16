@@ -1,4 +1,4 @@
-// Finding the number that is single in the array
+// Finding the number that is single in the array where all the other number appears twice using (XOR method)
 
 #include <vector>
 #include <iostream>

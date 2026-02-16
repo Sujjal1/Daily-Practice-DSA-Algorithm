@@ -1,4 +1,4 @@
-//Sorting array using liner search
+//Searching a number in array using liner search
 
 #include <iostream>
 #include <vector>
